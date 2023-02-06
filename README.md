@@ -7,7 +7,8 @@ o	Poppy Nevin-Adley
 # Goal of the project:
 o	It is a Machine Learning Project (Linear Regression)
 # Brief description of the dataset (Source, Number of rows, number of features)
-o	Dataset is ...
+o	This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System.
+o	This dataset is collected from: https://www.kaggle.com/datasets/spittman1248/cdc-data-nutrition-physical-activity-obesity
 # Planning of the project:
 ## o	Day 1 - EDA
 	Find dataset
