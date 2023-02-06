@@ -1,6 +1,6 @@
 # Ironhack-Midterm-Project-
 
-### Title:
+### Title: Regression Analysis on Nutrition, Physical Activity, & Obesity
 # Members of the group:
 o	Aycha Kurtulush-Tanriverdi
 o	Poppy Nevin-Adley
