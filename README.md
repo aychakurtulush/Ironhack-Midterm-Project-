@@ -7,9 +7,10 @@ o	Poppy Nevin-Adley
 # Goal of the project:
 o	It is a Machine Learning Project (Linear Regression)
 # Brief description of the dataset (Source, Number of rows, number of features)
-o	Dataset is Life Expectancy by WHO
+o	Dataset is ...
 # Planning of the project:
 ## o	Day 1 - EDA
+	Find dataset
 ## o	Day 2 - Clean the data
 	Remove typos
 	Correct datatypes
@@ -23,6 +24,7 @@ o	Dataset is Life Expectancy by WHO
 	Split data
 	Model fitting
 	Error and Model Evaluation
-	Etc
-## o	Day 5 - Finalizing
 	Preparation of presentation
+
+## o	Day 5 - Finalizing
+	Presentation
