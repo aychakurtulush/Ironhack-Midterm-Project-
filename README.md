@@ -6,7 +6,7 @@ o	Aycha Kurtulush-Tanriverdi
 o	Poppy Nevin-Adley  
 # Goal of the project:    
 o	It is a Machine Learning Project (Linear Regression)  
-o	Our goal will be prediction of obesity rate by various factors like socioeconomic status, physical activity, and weight status.    
+o	Our goal will be prediction of obesity rate by various factors like socioeconomic status such as income level, and education level.    
 o	We will also compare the obesity rate in each state to see if there is any meaningful difference.  
 # Brief description of the dataset 
 o	This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System.  
